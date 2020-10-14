@@ -10,4 +10,6 @@ Sequence Diagram.jpeg: Contains sequence diagram of project.
 
 Use case Diagram.jpeg: Contains use case diagram of Project.
 
+Activity Diagram.jpeg: Contains activity diagram of project.
+
 Class diagram.jpeg: Contains class diagram of project
