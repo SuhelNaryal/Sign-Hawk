@@ -1,1 +1,1 @@
-Used to detect hand keypoint
+Used to detect keypoints of single hand.
