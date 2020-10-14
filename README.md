@@ -23,3 +23,11 @@ This is an example of the outputs from interhand model
     - models are trained using Tensorflow object detection API.
     - Datset used: http://vision.cs.stonybrook.edu/~supreeth/TV-Hand.zip
     - Training stats for current model are as follows:
+    - Object Center Loss 
+    ![Object Center Loss](https://github.com/SuhelNaryal/Sign-Hawk/blob/main/Loss_object_center_current.svg)
+    - Box Offset Loss 
+    ![Box Offset Loss](https://github.com/SuhelNaryal/Sign-Hawk/blob/main/Loss_box_offset_current.svg)
+    - Box Scale Loss 
+    ![Box Scale Loss](https://github.com/SuhelNaryal/Sign-Hawk/blob/main/Loss_box_scale_current.svg)
+    - Total Loss 
+    ![Total Loss](https://github.com/SuhelNaryal/Sign-Hawk/blob/main/Loss_total_loss_current.svg)
