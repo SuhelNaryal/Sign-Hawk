@@ -7,3 +7,7 @@ hand_skeleton.txt: this file contains output info of InterHands Model for hand k
 State Chart Diagram.jpeg: Contains state chart diagram of project.
 
 Sequence Diagram.jpeg: Contains sequence diagram of project.
+
+Use case Diagram.jpeg: Contains use case diagram of Project.
+
+Class diagram.jpeg: Contains class diagram of project
