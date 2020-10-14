@@ -22,7 +22,7 @@ This is an example of the outputs from interhand model
     - details regarding models can be found @ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
     - models are trained using Tensorflow object detection API.
     - Datset used: http://vision.cs.stonybrook.edu/~supreeth/TV-Hand.zip
-    - Training stats for current model are as follows(Outliers excluded)(Actual values are fainted lines)(Darker lines are values smoothened on a scale of 0.6):
+    - Training stats for current model are as follows(Outliers excluded)(Actual values are fainted lines)(Darker lines are values smoothened on a scale of 0.6)(x-axis: no of steps, y-axis: loss values):
     - Object Center Loss 
     ![Object Center Loss](https://github.com/SuhelNaryal/Sign-Hawk/blob/main/Loss_object_center_current.svg)
     - Box Offset Loss 
